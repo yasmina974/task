@@ -58,7 +58,7 @@ fun Task( modifier: Modifier = Modifier) {
             text = "All tasks completed",
 
             fontSize = 24.sp,
-            modifier = modifier.padding(24.dp),
+            modifier = modifier.padding(24.dp,8.dp),
             textAlign = TextAlign.Center,
            fontWeight = FontWeight.Bold
 
